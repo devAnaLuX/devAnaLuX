@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! I'm Ana Luísa</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Helloo!+I'm+Ana+Lu%C3%ADsa)](https://git.io/typing-svg)
 
 ###
 
