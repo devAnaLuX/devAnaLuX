@@ -1,6 +1,6 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Helloo!+I'm+Ana+Lu%C3%ADsa)](https://git.io/typing-svg)
+<h1 align="center">Olá! Eu sou a Ana Luísa!</h1>
 
 ###
 
@@ -9,16 +9,16 @@
 <img align="right" height="400" src="https://cdn.phototourl.com/uploads/2026-03-13-21b49648-864f-4d97-a444-7a6a8ffa9e90.png"  />
 
 ###
+<h2 align="left">
+  <i>
+    Sou movida pelo entusiasmo de construir e entender pequenos detalhes de um processo à estrutura de um sistema inteiro, o que me instiga é o desafio de tirar ideias do papel e fazê-las acontecer. 
+    <br><br>
+    Minha jornada é movida pela curiosidade técnica e pelo desejo de entender a arquitetura do mundo digital. Mais do que apenas executar, busco deixar minha marca através de soluções inteligentes, seguras e, acima de tudo, bem pensadas.
+  </i>
+</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAnaLuX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devAnaLuX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAnaLuX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<div align="center">
+<div align="left">
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
