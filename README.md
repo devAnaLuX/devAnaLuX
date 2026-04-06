@@ -11,10 +11,8 @@
 ###
 <h2 align="left">
   <i>
-    Sou movida pelo entusiasmo de construir e entender pequenos detalhes de um processo à estrutura de um sistema inteiro, o que me instiga é o desafio de tirar ideias do papel e fazê-las acontecer. 
-    <br><br>
-    Minha jornada é movida pela curiosidade técnica e pelo desejo de entender a arquitetura do mundo digital. Mais do que apenas executar, busco deixar minha marca através de soluções inteligentes, seguras e, acima de tudo, bem pensadas.
-  </i>
+Minha paixão pela tecnologia começou ainda na infância, quando os jogos despertaram minha curiosidade e interesse por como as coisas funcionam. Com o tempo, também desenvolvi um forte interesse pela arte, o que contribuiu para minha criatividade e forma de resolver problemas.    <br><br>
+Durante o ensino médio, tive meu primeiro contato com a programação e foi nesse momento que percebi que queria seguir nessa área. Desde então, venho aprofundando meus conhecimentos e explorando cada vez mais esse universo, sempre em busca de aprender, criar e evoluir.  </i>
 </h2>
 
 
