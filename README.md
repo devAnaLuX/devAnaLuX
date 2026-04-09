@@ -58,7 +58,7 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAnaLuX&theme=jolly&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAnaLuX&theme=jolly&hide_border=true&layout=compact" height="150"/>
+<img src="https://raw.githubusercontent.com/devAnaLuX/devAnaLuX/output/snake.svg" />
 
 </div>
 
@@ -66,6 +66,10 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
 
 ## ✨
 
+<h3 align="center">
+  ✨ "Até a menor das pessoas pode mudar o curso do futuro."
+</h3>
+
 <p align="center">
-  <i>"Sempre aprendendo, sempre evoluindo."</i>
+  <i>- Senhor dos Anéis</i>
 </p>
