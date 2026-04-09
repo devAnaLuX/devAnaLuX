@@ -32,6 +32,9 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
   <a href="https://www.linkedin.com/in/ana-luisa-cunha-reis-8baa563a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/devanalu_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
