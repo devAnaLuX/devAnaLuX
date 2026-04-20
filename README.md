@@ -62,6 +62,14 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
 
 </div>
 
+## 📊 Linguagens mais usadas
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAnaLuX&layout=compact&theme=tokyonight)
+
+</div>
+
 ---
 
 ## ✨
@@ -73,3 +81,4 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
 <p align="center">
   <i>- Senhor dos Anéis</i>
 </p>
+
