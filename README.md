@@ -38,7 +38,7 @@ Desde então, venho aprofundando meus conhecimentos e explorando esse universo, 
 ## 💡 Tecnologias que estou estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,postgresql,spring,c,idea,html,css,js,ts" />
 </div>
 
 ---
